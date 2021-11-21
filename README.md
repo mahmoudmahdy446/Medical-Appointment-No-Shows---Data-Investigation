@@ -2,7 +2,7 @@
 
 
 
-n this data analysis project, we are going to investigate a dataset recording from 100k medical appointments in a public hospital in May 2016 in Brazil.
+in this data analysis project, we are going to investigate a dataset recording from 100k medical appointments in a public hospital in May 2016 in Brazil.
 
 The dataset shows whether or not the patient showed up for their appointments as well as a number of characteristics about the partient, including:
 
